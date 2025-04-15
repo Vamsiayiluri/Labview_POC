@@ -1,0 +1,21 @@
+# Ignore compiled code
+*.lvlps
+*.aliases
+
+# Ignore backup files
+*.bak
+
+# Ignore auto-generated build folders
+builds/
+dist/
+output/
+
+# Ignore project-specific temp folders
+*.lvuser
+*.lvclass~*
+*.vi~*
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+"*.lvlps" 
