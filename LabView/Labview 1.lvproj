@@ -12,6 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="add.vi" Type="VI" URL="../add.vi"/>
 		<Item Name="areaOfTriangle.vi" Type="VI" URL="../areaOfTriangle.vi"/>
 		<Item Name="arrayLength.vi" Type="VI" URL="../arrayLength.vi"/>
 		<Item Name="ArraySample.vi" Type="VI" URL="../ArraySample.vi"/>
@@ -28,6 +29,7 @@
 		<Item Name="PropertyNodeSample.vi" Type="VI" URL="../PropertyNodeSample.vi"/>
 		<Item Name="SubVISample.vi" Type="VI" URL="../SubVISample.vi"/>
 		<Item Name="temperature converter.vi" Type="VI" URL="../temperature converter.vi"/>
+		<Item Name="Waveform Graph.vi" Type="VI" URL="../../../../Labview Assessments/Waveform Graph.vi"/>
 		<Item Name="WaveformChart.vi" Type="VI" URL="../WaveformChart.vi"/>
 		<Item Name="whileLoop_CaseStructure.vi" Type="VI" URL="../whileLoop_CaseStructure.vi"/>
 		<Item Name="whileLoopSample.vi" Type="VI" URL="../whileLoopSample.vi"/>
